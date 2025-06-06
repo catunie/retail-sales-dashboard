@@ -15,7 +15,7 @@ This project showcases a complete data analysis workflow from data cleaning to v
 - Data: `sales_data_project.csv`
 
 # Screenshot
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](image.png)
 
 # Files
 - `sales project dashboard.pbix`: Power BI file
